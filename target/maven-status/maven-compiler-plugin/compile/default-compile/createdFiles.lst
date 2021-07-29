@@ -1,0 +1,8 @@
+com\example\tarjetas\TarjetasApplication.class
+com\example\tarjetas\dto\TarjetaDTO.class
+com\example\tarjetas\service\ITarjeta.class
+com\example\tarjetas\configuration\ConfigurationRestTemplate.class
+com\example\tarjetas\entity\Tarjetas.class
+com\example\tarjetas\service\TarjetaImpl.class
+com\example\tarjetas\controller\TarjetaController.class
+com\example\tarjetas\dao\TarjetaDAO.class
